@@ -1,0 +1,54 @@
+Nodes:  50 Posts:  50
+Average Upper Bound:  929.7021276595744
+Average Length:  20.76595744680851
+Average Raw Distance:  8.425531914893616
+Average Normalized Distance:  0.03941662331094467
+
+Nodes:  50 Posts:  250
+Average Upper Bound:  812.5714285714286
+Average Length:  102.79591836734694
+Average Raw Distance:  298.2857142857143
+Average Normalized Distance:  0.05800030659268066
+
+Nodes:  50 Posts:  1000
+Average Upper Bound:  764.72
+Average Length:  391.5
+Average Raw Distance:  5367.76
+Average Normalized Distance:  0.0985580287377182
+
+Nodes:  250 Posts:  50
+Average Upper Bound:  5607.05785123967
+Average Length:  14.574380165289256
+Average Raw Distance:  8.979338842975206
+Average Normalized Distance:  0.072708968464031
+
+Nodes:  250 Posts:  250
+Average Upper Bound:  5878.739669421488
+Average Length:  73.0
+Average Raw Distance:  226.55785123966942
+Average Normalized Distance:  0.07182537880289357
+
+Nodes:  250 Posts:  1000
+Average Upper Bound:  4783.153225806452
+Average Length:  290.01209677419354
+Average Raw Distance:  3163.0241935483873
+Average Normalized Distance:  0.06582792288315037
+
+Nodes:  1000 Posts:  50
+Average Upper Bound:  15446.351100811124
+Average Length:  9.020857473928158
+Average Raw Distance:  4.371958285052144
+Average Normalized Distance:  0.08600413798509576
+
+Nodes:  1000 Posts:  250
+Average Upper Bound:  11630.412133891214
+Average Length:  34.65167364016737
+Average Raw Distance:  89.3713389121339
+Average Normalized Distance:  0.1064547553901453
+
+Nodes:  1000 Posts:  1000
+Average Upper Bound:  15105.698445595855
+Average Length:  157.98549222797928
+Average Raw Distance:  1962.5378238341968
+Average Normalized Distance:  0.11198811881089377
+
