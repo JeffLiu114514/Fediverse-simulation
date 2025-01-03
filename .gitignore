@@ -1,5 +1,4 @@
 /Graphviz
-/wrapper/*.gv
-/wrapper/*.pdf
-/wrapper/__pycache__
+*.gv
+*.pdf
 /__pycache__
